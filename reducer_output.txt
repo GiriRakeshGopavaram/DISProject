@@ -1,0 +1,6 @@
+Total consumption (in Million Cubic Feet) for each state:
+3148915.0		Missouri
+Maximum consumption (in Million Cubic Feet) for each state:
+29359.0		Missouri
+Minimum consumption (in Million Cubic Feet) for each state:
+1595.0		Missouri
