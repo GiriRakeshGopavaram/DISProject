@@ -1,3 +1,4 @@
+
 mapper_input = open("Natural_Gas_Residential_Consumption_Data.txt","r")  # open file, read-only raw data
 
 mapper_output = open("mapper_output.txt", "w") # open file, write - just our key, value pairs
