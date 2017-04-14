@@ -1,7 +1,4 @@
-Vikram Simha Reddy Ganta
-Vikram Simha Reddy Ganta
-Apr 5, 2017 Apr 5 at 8:18pm
-Manage Discussion Entry
+
 1. Team Number: P19
 2. Team Members: Vikram Simha Reddy Ganta and Giri Rakesh Gopavaram
 3. Summary: We will be using Natural Gas Residential Consumption data as our data set. We are working on total and average amount of consumption for a state.
