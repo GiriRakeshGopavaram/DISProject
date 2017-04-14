@@ -334,3 +334,3027 @@ Missouri	11192
 Missouri	19809
 Missouri	22300
 Missouri	21508
+Arizona	4941
+Arizona	2295
+Arizona	1421
+Arizona	1134
+Arizona	1021
+Arizona	1072
+Arizona	1314
+Arizona	1750
+Arizona	2402
+Arizona	3064
+Arizona	5763
+Arizona	8638
+Arizona	6665
+Arizona	3133
+Arizona	1345
+Arizona	1080
+Arizona	978
+Arizona	1065
+Arizona	1320
+Arizona	1820
+Arizona	2191
+Arizona	3200
+Arizona	4275
+Arizona	7435
+Arizona	4891
+Arizona	2482
+Arizona	1384
+Arizona	1123
+Arizona	1025
+Arizona	1096
+Arizona	1275
+Arizona	1750
+Arizona	2373
+Arizona	3162
+Arizona	4853
+Arizona	6983
+Arizona	5914
+Arizona	2542
+Arizona	1672
+Arizona	1132
+Arizona	1032
+Arizona	1053
+Arizona	1227
+Arizona	1675
+Arizona	2273
+Arizona	4809
+Arizona	7051
+Arizona	9313
+Arizona	4616
+Arizona	2417
+Arizona	1373
+Arizona	1087
+Arizona	1020
+Arizona	1096
+Arizona	1295
+Arizona	1656
+Arizona	2612
+Arizona	4487
+Arizona	5909
+Arizona	7406
+Arizona	6546
+Arizona	2839
+Arizona	1504
+Arizona	1066
+Arizona	964
+Arizona	1114
+Arizona	1398
+Arizona	1829
+Arizona	2479
+Arizona	4123
+Arizona	6951
+Arizona	7779
+Arizona	5276
+Arizona	2842
+Arizona	1377
+Arizona	1116
+Arizona	1033
+Arizona	1121
+Arizona	1418
+Arizona	1972
+Arizona	3034
+Arizona	5164
+Arizona	6015
+Arizona	7444
+Arizona	5549
+Arizona	2487
+Arizona	1471
+Arizona	1119
+Arizona	1038
+Arizona	1151
+Arizona	1356
+Arizona	1734
+Arizona	2621
+Arizona	3721
+Arizona	5352
+Arizona	7133
+Arizona	4411
+Arizona	2202
+Arizona	1435
+Arizona	1145
+Arizona	1055
+Arizona	1139
+Arizona	1505
+Arizona	1884
+Arizona	2694
+Arizona	4726
+Arizona	7515
+Arizona	8743
+Arizona	5135
+Arizona	2087
+Arizona	1483
+Arizona	1128
+Arizona	1091
+Arizona	1152
+Arizona	1385
+Arizona	1840
+Arizona	2362
+Arizona	4506
+Arizona	7144
+Arizona	9010
+Arizona	5575
+Arizona	2407
+Arizona	1544
+Arizona	1204
+Arizona	1081
+Arizona	1135
+Arizona	1344
+Arizona	1769
+Arizona	3120
+Arizona	4915
+Arizona	5727
+Arizona	6235
+Arizona	5380
+Arizona	2183
+Arizona	1379
+Arizona	1144
+Arizona	1053
+Arizona	1155
+Arizona	1382
+Arizona	1857
+Arizona	3027
+Arizona	4435
+Arizona	5600
+Arizona	7170
+Arizona	6406
+Arizona	2844
+Arizona	1492
+Arizona	1156
+Arizona	1050
+Arizona	1128
+Arizona	1254
+Arizona	1705
+Arizona	2295
+Arizona	4846
+Arizona	6902
+Arizona	7129
+Arizona	5642
+Arizona	2145
+Arizona	1399
+Arizona	1052
+Arizona	1100
+Arizona	1122
+Arizona	1366
+Arizona	2090
+Arizona	3011
+Arizona	4931
+Arizona	4914
+Arizona	7038
+Arizona	4403
+Arizona	2108
+Arizona	1265
+Arizona	1073
+Arizona	1016
+Arizona	1077
+Arizona	1355
+Arizona	1683
+Arizona	2630
+Arizona	4473
+Arizona	6684
+Arizona	7537
+Arizona	5016
+Arizona	1660
+Arizona	1156
+Arizona	1028
+Arizona	986
+Arizona	1060
+Arizona	1272
+Arizona	1904
+Arizona	2836
+Arizona	5461
+Arizona	7101
+Arizona	6767
+Arizona	5704
+Arizona	2787
+Arizona	1070
+Arizona	971
+Arizona	903
+Arizona	996
+Arizona	1178
+Arizona	1510
+Arizona	2663
+Arizona	4192
+Arizona	6328
+Arizona	6438
+Arizona	4642
+Arizona	1682
+Arizona	1165
+Arizona	1006
+Arizona	963
+Arizona	1065
+Arizona	1354
+Arizona	2108
+Arizona	3374
+Arizona	3735
+Arizona	5465
+Arizona	6382
+Arizona	4666
+Arizona	2008
+Arizona	1136
+Arizona	940
+Arizona	902
+Arizona	1070
+Arizona	1385
+Arizona	2107
+Arizona	3722
+Arizona	5362
+Arizona	5646
+Arizona	7156
+Arizona	4764
+Arizona	1973
+Arizona	1053
+Arizona	1124
+Arizona	907
+Arizona	1015
+Arizona	1150
+Arizona	1566
+Arizona	2251
+Arizona	4221
+Arizona	5075
+Arizona	5958
+Arizona	4051
+Arizona	2322
+Arizona	1082
+Arizona	900
+Arizona	836
+Arizona	916
+Arizona	1089
+Arizona	1328
+Arizona	2155
+Arizona	3366
+Arizona	4221
+Arizona	5443
+Arizona	3154
+Arizona	1554
+Arizona	1027
+Arizona	878
+Arizona	859
+Arizona	969
+Arizona	1248
+Arizona	1824
+Arizona	2428
+Arizona	2846
+Arizona	4576
+Arizona	5531
+Arizona	4869
+Arizona	2024
+Arizona	1053
+Arizona	851
+Arizona	806
+Arizona	899
+Arizona	1116
+Arizona	1443
+Arizona	2142
+Arizona	3659
+Arizona	5158
+Arizona	5663
+Arizona	4566
+Arizona	1847
+Arizona	988
+Arizona	854
+Arizona	801
+Arizona	832
+Arizona	1097
+Arizona	1297
+Arizona	2178
+Arizona	4078
+Arizona	4120
+Arizona	5504
+Arizona	5118
+Arizona	1576
+Arizona	1000
+Arizona	870
+Arizona	815
+Arizona	947
+Arizona	1132
+Arizona	1207
+Arizona	2313
+Arizona	3589
+Arizona	4220
+Arizona	5598
+Arizona	4664
+Arizona	1895
+Arizona	1077
+Arizona	900
+Arizona	862
+Arizona	1042
+Arizona	1209
+Arizona	1620
+Arizona	3214
+Arizona	4018
+Arizona	4569
+Arizona	6284
+Arizona	4473
+Arizona	1711
+Arizona	1044
+Arizona	926
+Arizona	856
+Arizona	931
+Arizona	1145
+Arizona	1427
+Arizona	2197
+Arizona	4035
+Arizona	5582
+Arizona	5994
+Arizona	3945
+Arizona	1768
+Arizona	959
+Arizona	833
+Arizona	777
+Arizona	880
+Arizona	1094
+Arizona	1205
+Arizona	1670
+Arizona	2937
+Arizona	4913
+Arizona	6104
+California	66085
+California	37269
+California	22105
+California	19803
+California	18507
+California	19421
+California	21129
+California	24628
+California	28039
+California	39564
+California	43489
+California	69390
+California	73056
+California	44392
+California	19235
+California	17032
+California	17399
+California	18932
+California	20889
+California	27358
+California	29622
+California	32140
+California	40902
+California	60216
+California	57876
+California	34011
+California	21140
+California	18456
+California	18834
+California	20299
+California	21690
+California	25224
+California	30716
+California	38959
+California	49235
+California	61049
+California	75406
+California	42264
+California	28257
+California	19699
+California	21214
+California	20894
+California	22876
+California	26196
+California	31414
+California	43465
+California	64601
+California	85488
+California	70162
+California	41236
+California	24622
+California	19607
+California	20731
+California	22631
+California	23707
+California	28728
+California	38572
+California	55899
+California	60157
+California	71879
+California	81335
+California	49546
+California	24758
+California	22626
+California	25315
+California	26695
+California	27204
+California	32739
+California	34838
+California	51570
+California	65457
+California	70482
+California	67310
+California	45455
+California	27880
+California	22790
+California	22085
+California	23450
+California	26822
+California	33082
+California	44708
+California	52024
+California	58616
+California	70666
+California	72575
+California	37012
+California	26332
+California	20461
+California	20497
+California	22862
+California	26638
+California	28637
+California	40905
+California	53611
+California	63571
+California	67619
+California	66909
+California	31620
+California	25162
+California	20849
+California	20836
+California	22623
+California	24731
+California	32935
+California	38422
+California	51311
+California	69136
+California	84770
+California	67194
+California	37115
+California	27978
+California	21367
+California	21550
+California	23004
+California	26503
+California	32317
+California	37437
+California	49689
+California	62484
+California	85741
+California	65663
+California	37412
+California	28106
+California	22020
+California	20893
+California	21133
+California	26417
+California	32929
+California	47329
+California	68793
+California	55662
+California	65421
+California	59959
+California	35080
+California	28502
+California	23432
+California	21897
+California	23745
+California	28351
+California	31785
+California	40258
+California	50895
+California	62924
+California	76870
+California	74682
+California	49852
+California	30541
+California	21547
+California	22446
+California	24110
+California	26967
+California	28303
+California	35580
+California	48651
+California	68760
+California	80607
+California	73760
+California	43421
+California	25736
+California	22084
+California	22166
+California	24968
+California	27704
+California	36234
+California	46472
+California	51363
+California	61307
+California	62742
+California	65611
+California	36668
+California	31451
+California	23150
+California	23494
+California	24891
+California	26367
+California	34646
+California	43106
+California	57999
+California	64122
+California	79491
+California	64425
+California	39037
+California	29189
+California	21331
+California	22473
+California	24195
+California	23066
+California	30699
+California	41839
+California	59144
+California	71801
+California	85495
+California	68470
+California	52106
+California	31757
+California	24496
+California	22116
+California	24448
+California	27625
+California	31735
+California	39046
+California	62855
+California	65334
+California	66741
+California	65679
+California	34488
+California	25265
+California	24496
+California	23376
+California	25727
+California	32960
+California	40605
+California	62128
+California	67420
+California	77994
+California	88358
+California	68831
+California	40200
+California	26159
+California	22038
+California	21625
+California	25149
+California	33208
+California	38119
+California	54074
+California	62009
+California	76213
+California	82305
+California	68486
+California	39940
+California	24538
+California	21448
+California	20643
+California	26444
+California	23226
+California	28268
+California	38704
+California	47664
+California	65672
+California	73871
+California	62905
+California	43702
+California	30462
+California	26104
+California	21757
+California	18649
+California	25996
+California	30001
+California	36723
+California	52226
+California	58007
+California	66779
+California	56731
+California	33646
+California	24743
+California	22148
+California	21306
+California	25181
+California	28924
+California	38489
+California	43743
+California	52461
+California	50614
+California	79509
+California	76846
+California	56469
+California	25961
+California	21949
+California	23620
+California	24541
+California	26995
+California	37223
+California	35315
+California	52478
+California	66977
+California	72586
+California	70513
+California	39240
+California	25932
+California	23934
+California	22749
+California	23646
+California	25116
+California	29411
+California	36252
+California	50594
+California	66015
+California	87565
+California	75266
+California	37291
+California	24434
+California	21969
+California	22039
+California	22397
+California	24100
+California	28422
+California	37311
+California	46860
+California	61574
+California	77875
+California	67035
+California	39238
+California	26211
+California	23383
+California	22944
+California	24971
+California	28515
+California	34795
+California	46136
+California	60602
+California	52982
+California	81885
+California	76544
+California	40091
+California	24435
+California	22093
+California	22334
+California	22555
+California	25125
+California	30979
+California	37602
+California	60247
+California	73931
+California	78572
+California	63104
+California	40070
+California	28083
+California	24184
+California	22977
+California	22730
+California	26581
+California	31161
+California	37832
+California	53779
+California	75817
+California	87958
+Colorado	22187
+Colorado	11580
+Colorado	5970
+Colorado	3231
+Colorado	2751
+Colorado	2597
+Colorado	2956
+Colorado	6531
+Colorado	10396
+Colorado	14346
+Colorado	17334
+Colorado	22396
+Colorado	22545
+Colorado	16187
+Colorado	5800
+Colorado	2924
+Colorado	2403
+Colorado	2633
+Colorado	3115
+Colorado	7343
+Colorado	8503
+Colorado	12871
+Colorado	16449
+Colorado	21591
+Colorado	20604
+Colorado	18632
+Colorado	6921
+Colorado	3533
+Colorado	2195
+Colorado	3220
+Colorado	3526
+Colorado	6319
+Colorado	9485
+Colorado	15296
+Colorado	19396
+Colorado	22977
+Colorado	23504
+Colorado	14493
+Colorado	8689
+Colorado	3121
+Colorado	2595
+Colorado	2610
+Colorado	3562
+Colorado	6550
+Colorado	12103
+Colorado	15454
+Colorado	19426
+Colorado	22830
+Colorado	20049
+Colorado	12657
+Colorado	7954
+Colorado	3180
+Colorado	2405
+Colorado	2396
+Colorado	2451
+Colorado	3745
+Colorado	5903
+Colorado	11633
+Colorado	22424
+Colorado	20898
+Colorado	22219
+Colorado	15031
+Colorado	7243
+Colorado	3167
+Colorado	2512
+Colorado	2523
+Colorado	2862
+Colorado	6305
+Colorado	9995
+Colorado	13420
+Colorado	21127
+Colorado	23711
+Colorado	18981
+Colorado	16284
+Colorado	6978
+Colorado	3242
+Colorado	3081
+Colorado	2842
+Colorado	3152
+Colorado	6962
+Colorado	10823
+Colorado	15526
+Colorado	20633
+Colorado	22720
+Colorado	25244
+Colorado	14873
+Colorado	11191
+Colorado	3776
+Colorado	2869
+Colorado	2865
+Colorado	3359
+Colorado	5609
+Colorado	11695
+Colorado	11497
+Colorado	16068
+Colorado	19946
+Colorado	23941
+Colorado	13048
+Colorado	7982
+Colorado	3580
+Colorado	3302
+Colorado	2824
+Colorado	3008
+Colorado	5715
+Colorado	10157
+Colorado	15898
+Colorado	19931
+Colorado	24561
+Colorado	23712
+Colorado	13654
+Colorado	6802
+Colorado	3375
+Colorado	2608
+Colorado	2782
+Colorado	3038
+Colorado	5509
+Colorado	10369
+Colorado	12351
+Colorado	19019
+Colorado	27751
+Colorado	19212
+Colorado	14259
+Colorado	8577
+Colorado	4258
+Colorado	2712
+Colorado	2847
+Colorado	2727
+Colorado	4581
+Colorado	8243
+Colorado	15870
+Colorado	18603
+Colorado	17381
+Colorado	22692
+Colorado	13372
+Colorado	7672
+Colorado	3173
+Colorado	2867
+Colorado	2847
+Colorado	3179
+Colorado	5798
+Colorado	10372
+Colorado	15332
+Colorado	16463
+Colorado	20489
+Colorado	19344
+Colorado	15431
+Colorado	7553
+Colorado	3971
+Colorado	2893
+Colorado	2837
+Colorado	3512
+Colorado	4949
+Colorado	8788
+Colorado	11395
+Colorado	19514
+Colorado	20385
+Colorado	20836
+Colorado	16094
+Colorado	5811
+Colorado	4560
+Colorado	2707
+Colorado	2769
+Colorado	3831
+Colorado	5675
+Colorado	8735
+Colorado	14786
+Colorado	20165
+Colorado	18246
+Colorado	19641
+Colorado	15622
+Colorado	9908
+Colorado	3581
+Colorado	2567
+Colorado	2617
+Colorado	2696
+Colorado	5232
+Colorado	8254
+Colorado	17430
+Colorado	20177
+Colorado	21103
+Colorado	17087
+Colorado	8518
+Colorado	4054
+Colorado	2801
+Colorado	2513
+Colorado	3058
+Colorado	4431
+Colorado	8218
+Colorado	12549
+Colorado	17880
+Colorado	20453
+Colorado	21953
+Colorado	20693
+Colorado	10855
+Colorado	5520
+Colorado	2706
+Colorado	2553
+Colorado	3005
+Colorado	4081
+Colorado	6487
+Colorado	11175
+Colorado	14321
+Colorado	16123
+Colorado	18846
+Colorado	14763
+Colorado	8173
+Colorado	5565
+Colorado	2978
+Colorado	2750
+Colorado	3086
+Colorado	4680
+Colorado	9579
+Colorado	10614
+Colorado	13479
+Colorado	15178
+Colorado	20903
+Colorado	14812
+Colorado	8806
+Colorado	4366
+Colorado	2806
+Colorado	2541
+Colorado	3454
+Colorado	1664
+Colorado	7886
+Colorado	11619
+Colorado	16272
+Colorado	16905
+Colorado	19710
+Colorado	17463
+Colorado	10147
+Colorado	4290
+Colorado	2714
+Colorado	2590
+Colorado	2965
+Colorado	4130
+Colorado	8492
+Colorado	10975
+Colorado	15768
+Colorado	17485
+Colorado	18564
+Colorado	15814
+Colorado	9571
+Colorado	4886
+Colorado	2773
+Colorado	2505
+Colorado	2869
+Colorado	4316
+Colorado	6901
+Colorado	11526
+Colorado	14685
+Colorado	17480
+Colorado	17597
+Colorado	12262
+Colorado	8830
+Colorado	5456
+Colorado	2773
+Colorado	2681
+Colorado	3590
+Colorado	6098
+Colorado	9143
+Colorado	9879
+Colorado	12862
+Colorado	14457
+Colorado	16254
+Colorado	14571
+Colorado	8388
+Colorado	4013
+Colorado	2440
+Colorado	2378
+Colorado	2546
+Colorado	3474
+Colorado	6819
+Colorado	9732
+Colorado	13500
+Colorado	15391
+Colorado	16252
+Colorado	14527
+Colorado	8984
+Colorado	4451
+Colorado	3027
+Colorado	2391
+Colorado	2851
+Colorado	3996
+Colorado	6505
+Colorado	9897
+Colorado	15025
+Colorado	15981
+Colorado	18551
+Colorado	15715
+Colorado	7607
+Colorado	3547
+Colorado	2644
+Colorado	2438
+Colorado	2809
+Colorado	3963
+Colorado	5005
+Colorado	8789
+Colorado	11499
+Colorado	14400
+Colorado	16198
+Colorado	14007
+Colorado	8076
+Colorado	3541
+Colorado	2367
+Colorado	2283
+Colorado	2569
+Colorado	3600
+Colorado	7108
+Colorado	9187
+Colorado	11686
+Colorado	15114
+Colorado	17902
+Colorado	10956
+Colorado	7142
+Colorado	3450
+Colorado	2331
+Colorado	2357
+Colorado	2478
+Colorado	4191
+Colorado	7248
+Colorado	9873
+Colorado	12631
+Colorado	13559
+Colorado	15699
+Colorado	11066
+Colorado	6975
+Colorado	3750
+Colorado	2601
+Colorado	2279
+Colorado	2778
+Colorado	3947
+Colorado	5694
+Colorado	8580
+Colorado	13652
+Colorado	15278
+Colorado	14966
+Alabama	4979
+Alabama	1826
+Alabama	893
+Alabama	633
+Alabama	659
+Alabama	689
+Alabama	849
+Alabama	997
+Alabama	1678
+Alabama	2811
+Alabama	5627
+Alabama	7340
+Alabama	3492
+Alabama	2079
+Alabama	956
+Alabama	710
+Alabama	705
+Alabama	720
+Alabama	765
+Alabama	1111
+Alabama	1694
+Alabama	3858
+Alabama	8542
+Alabama	8077
+Alabama	5373
+Alabama	4457
+Alabama	1124
+Alabama	716
+Alabama	748
+Alabama	764
+Alabama	804
+Alabama	1345
+Alabama	2192
+Alabama	4611
+Alabama	6522
+Alabama	10350
+Alabama	6216
+Alabama	3925
+Alabama	1142
+Alabama	778
+Alabama	770
+Alabama	715
+Alabama	980
+Alabama	1325
+Alabama	2198
+Alabama	5205
+Alabama	5657
+Alabama	6147
+Alabama	4849
+Alabama	3735
+Alabama	1334
+Alabama	722
+Alabama	700
+Alabama	703
+Alabama	723
+Alabama	893
+Alabama	1328
+Alabama	2207
+Alabama	4489
+Alabama	5896
+Alabama	5467
+Alabama	3426
+Alabama	1531
+Alabama	852
+Alabama	772
+Alabama	604
+Alabama	844
+Alabama	1363
+Alabama	1942
+Alabama	3513
+Alabama	6315
+Alabama	9951
+Alabama	7970
+Alabama	2757
+Alabama	839
+Alabama	658
+Alabama	708
+Alabama	733
+Alabama	842
+Alabama	1143
+Alabama	2987
+Alabama	6612
+Alabama	7762
+Alabama	9203
+Alabama	5413
+Alabama	2438
+Alabama	1182
+Alabama	853
+Alabama	824
+Alabama	875
+Alabama	1027
+Alabama	1556
+Alabama	2609
+Alabama	5135
+Alabama	7273
+Alabama	6875
+Alabama	6249
+Alabama	2606
+Alabama	1044
+Alabama	893
+Alabama	859
+Alabama	911
+Alabama	1045
+Alabama	1565
+Alabama	2862
+Alabama	5324
+Alabama	7381
+Alabama	7055
+Alabama	4525
+Alabama	2242
+Alabama	990
+Alabama	883
+Alabama	876
+Alabama	935
+Alabama	1083
+Alabama	1811
+Alabama	2562
+Alabama	5368
+Alabama	8118
+Alabama	6088
+Alabama	5806
+Alabama	3228
+Alabama	1223
+Alabama	913
+Alabama	908
+Alabama	986
+Alabama	1147
+Alabama	1337
+Alabama	3006
+Alabama	5337
+Alabama	6402
+Alabama	7838
+Alabama	6318
+Alabama	2641
+Alabama	1137
+Alabama	1056
+Alabama	1048
+Alabama	1120
+Alabama	1313
+Alabama	2028
+Alabama	3600
+Alabama	5914
+Alabama	7670
+Alabama	8212
+Alabama	5420
+Alabama	1887
+Alabama	1241
+Alabama	1124
+Alabama	1072
+Alabama	1138
+Alabama	1216
+Alabama	1960
+Alabama	3296
+Alabama	6062
+Alabama	9400
+Alabama	10044
+Alabama	6288
+Alabama	2159
+Alabama	1452
+Alabama	1116
+Alabama	1123
+Alabama	1169
+Alabama	1317
+Alabama	1909
+Alabama	3253
+Alabama	6038
+Alabama	10219
+Alabama	10529
+Alabama	7667
+Alabama	2890
+Alabama	1225
+Alabama	1130
+Alabama	1122
+Alabama	1150
+Alabama	1446
+Alabama	1688
+Alabama	3484
+Alabama	7349
+Alabama	7981
+Alabama	9350
+Alabama	4470
+Alabama	3075
+Alabama	1706
+Alabama	1164
+Alabama	1185
+Alabama	1194
+Alabama	1348
+Alabama	1968
+Alabama	4787
+Alabama	5867
+Alabama	8987
+Alabama	13490
+Alabama	8686
+Alabama	3005
+Alabama	1761
+Alabama	1202
+Alabama	1175
+Alabama	1247
+Alabama	1383
+Alabama	2320
+Alabama	3471
+Alabama	4805
+Alabama	9716
+Alabama	8671
+Alabama	5754
+Alabama	3069
+Alabama	1560
+Alabama	1185
+Alabama	1126
+Alabama	1259
+Alabama	1357
+Alabama	1873
+Alabama	3892
+Alabama	6393
+Alabama	6161
+Alabama	9018
+Alabama	4447
+Alabama	2468
+Alabama	1320
+Alabama	1196
+Alabama	1183
+Alabama	1212
+Alabama	1394
+Alabama	2354
+Alabama	4584
+Alabama	7486
+Alabama	9216
+Alabama	9683
+Alabama	7942
+Alabama	3977
+Alabama	1440
+Alabama	1254
+Alabama	1242
+Alabama	1397
+Alabama	1609
+Alabama	2648
+Alabama	3191
+Alabama	5344
+Alabama	9129
+Alabama	9322
+Alabama	6664
+Alabama	3461
+Alabama	1647
+Alabama	1321
+Alabama	1227
+Alabama	1295
+Alabama	1472
+Alabama	2948
+Alabama	6321
+Alabama	8051
+Alabama	11222
+Alabama	10893
+Alabama	7563
+Alabama	3902
+Alabama	1542
+Alabama	1279
+Alabama	1299
+Alabama	1401
+Alabama	1565
+Alabama	2206
+Alabama	3692
+Alabama	7586
+Alabama	9200
+Alabama	8338
+Alabama	5034
+Alabama	2602
+Alabama	1495
+Alabama	1325
+Alabama	1323
+Alabama	1361
+Alabama	1542
+Alabama	2208
+Alabama	4557
+Alabama	6935
+Alabama	10653
+Alabama	10714
+Alabama	6727
+Alabama	3853
+Alabama	1526
+Alabama	1330
+Alabama	1328
+Alabama	1430
+Alabama	1641
+Alabama	2848
+Alabama	5668
+Alabama	8716
+Alabama	8189
+Alabama	8110
+Alabama	7261
+Alabama	3402
+Alabama	1728
+Alabama	1373
+Alabama	1311
+Alabama	1423
+Alabama	1772
+Alabama	2714
+Alabama	5012
+Alabama	5605
+Alabama	9267
+Alabama	8777
+Alabama	6396
+Alabama	3886
+Alabama	1793
+Alabama	1389
+Alabama	1368
+Alabama	1434
+Alabama	1583
+Alabama	2059
+Alabama	3891
+Alabama	6724
+Alabama	8327
+Alabama	7299
+Alabama	5355
+Alabama	3360
+Alabama	1529
+Alabama	1356
+Alabama	1334
+Alabama	1411
+Alabama	1625
+Alabama	2657
+Alabama	4143
+Alabama	5254
+Alabama	6493
+Alabama	10893
+Alabama	7240
+Alabama	3646
+Alabama	1862
+Alabama	1404
+Alabama	1383
+Alabama	1457
+Alabama	1709
+Alabama	2856
+Alabama	4722
+Alabama	7392
+Alabama	7044
+Alabama	7406
+Alaska	2970
+Alaska	2314
+Alaska	1711
+Alaska	828
+Alaska	534
+Alaska	479
+Alaska	534
+Alaska	864
+Alaska	1233
+Alaska	1886
+Alaska	2068
+Alaska	2359
+Alaska	2683
+Alaska	2317
+Alaska	1429
+Alaska	1040
+Alaska	531
+Alaska	499
+Alaska	589
+Alaska	883
+Alaska	1473
+Alaska	2174
+Alaska	2212
+Alaska	2743
+Alaska	2218
+Alaska	2070
+Alaska	1768
+Alaska	875
+Alaska	538
+Alaska	545
+Alaska	678
+Alaska	800
+Alaska	1427
+Alaska	2201
+Alaska	2443
+Alaska	2169
+Alaska	2859
+Alaska	2420
+Alaska	1314
+Alaska	987
+Alaska	590
+Alaska	497
+Alaska	585
+Alaska	1115
+Alaska	1889
+Alaska	2304
+Alaska	2130
+Alaska	2526
+Alaska	3129
+Alaska	2743
+Alaska	1730
+Alaska	1093
+Alaska	558
+Alaska	634
+Alaska	699
+Alaska	1056
+Alaska	1467
+Alaska	2333
+Alaska	2334
+Alaska	3603
+Alaska	2451
+Alaska	2851
+Alaska	1581
+Alaska	948
+Alaska	650
+Alaska	580
+Alaska	712
+Alaska	990
+Alaska	1593
+Alaska	2287
+Alaska	2755
+Alaska	2862
+Alaska	3065
+Alaska	2019
+Alaska	1529
+Alaska	771
+Alaska	607
+Alaska	630
+Alaska	667
+Alaska	946
+Alaska	1574
+Alaska	2121
+Alaska	2054
+Alaska	2730
+Alaska	2725
+Alaska	2428
+Alaska	1417
+Alaska	933
+Alaska	636
+Alaska	553
+Alaska	663
+Alaska	892
+Alaska	1589
+Alaska	2454
+Alaska	2514
+Alaska	3175
+Alaska	2992
+Alaska	2581
+Alaska	1918
+Alaska	1032
+Alaska	700
+Alaska	702
+Alaska	733
+Alaska	1128
+Alaska	1611
+Alaska	2158
+Alaska	2751
+Alaska	3134
+Alaska	2795
+Alaska	2008
+Alaska	1628
+Alaska	890
+Alaska	587
+Alaska	594
+Alaska	679
+Alaska	1033
+Alaska	1536
+Alaska	2709
+Alaska	2545
+Alaska	2841
+Alaska	2533
+Alaska	3197
+Alaska	1594
+Alaska	946
+Alaska	698
+Alaska	574
+Alaska	725
+Alaska	910
+Alaska	1683
+Alaska	2198
+Alaska	2233
+Alaska	3324
+Alaska	2224
+Alaska	2584
+Alaska	1662
+Alaska	843
+Alaska	563
+Alaska	506
+Alaska	581
+Alaska	869
+Alaska	1323
+Alaska	1901
+Alaska	2239
+Alaska	2734
+Alaska	2469
+Alaska	2006
+Alaska	1552
+Alaska	1065
+Alaska	513
+Alaska	467
+Alaska	538
+Alaska	919
+Alaska	1410
+Alaska	2061
+Alaska	2049
+Alaska	3151
+Alaska	2430
+Alaska	2322
+Alaska	1368
+Alaska	898
+Alaska	599
+Alaska	435
+Alaska	572
+Alaska	935
+Alaska	1328
+Alaska	2046
+Alaska	1705
+Alaska	2216
+Alaska	2074
+Alaska	1401
+Alaska	1214
+Alaska	828
+Alaska	592
+Alaska	421
+Alaska	1192
+Alaska	957
+Alaska	1406
+Alaska	2115
+Alaska	1933
+Alaska	2057
+Alaska	2785
+Alaska	2187
+Alaska	1662
+Alaska	819
+Alaska	538
+Alaska	520
+Alaska	612
+Alaska	981
+Alaska	1183
+Alaska	1818
+Alaska	1828
+Alaska	1885
+Alaska	2014
+Alaska	1749
+Alaska	1455
+Alaska	927
+Alaska	618
+Alaska	475
+Alaska	646
+Alaska	864
+Alaska	1234
+Alaska	1764
+Alaska	1886
+Alaska	2355
+Alaska	2466
+Alaska	2127
+Alaska	1423
+Alaska	870
+Alaska	481
+Alaska	486
+Alaska	559
+Alaska	939
+Alaska	1315
+Alaska	2075
+Alaska	2223
+Alaska	2668
+Alaska	2183
+Alaska	1858
+Alaska	1346
+Alaska	818
+Alaska	648
+Alaska	479
+Alaska	628
+Alaska	933
+Alaska	1239
+Alaska	1529
+Alaska	1716
+Alaska	2240
+Alaska	2162
+Alaska	1684
+Alaska	1569
+Alaska	743
+Alaska	418
+Alaska	463
+Alaska	508
+Alaska	789
+Alaska	1177
+Alaska	1767
+Alaska	1618
+Alaska	2249
+Alaska	2181
+Alaska	1708
+Alaska	1238
+Alaska	589
+Alaska	544
+Alaska	493
+Alaska	647
+Alaska	964
+Alaska	1424
+Alaska	1918
+Alaska	2419
+Alaska	2054
+Alaska	2294
+Alaska	1411
+Alaska	866
+Alaska	588
+Alaska	448
+Alaska	534
+Alaska	680
+Alaska	943
+Alaska	1573
+Alaska	1912
+Alaska	1923
+Alaska	2059
+Alaska	2195
+Alaska	1497
+Alaska	1042
+Alaska	567
+Alaska	416
+Alaska	491
+Alaska	651
+Alaska	1026
+Alaska	1480
+Alaska	1952
+Alaska	1763
+Alaska	1815
+Alaska	1772
+Alaska	1261
+Alaska	1043
+Alaska	513
+Alaska	402
+Alaska	423
+Alaska	577
+Alaska	891
+Alaska	1288
+Alaska	1471
+Alaska	2138
+Alaska	2079
+Alaska	1682
+Alaska	1442
+Alaska	1209
+Alaska	643
+Alaska	438
+Alaska	474
+Alaska	628
+Alaska	1012
+Alaska	1346
+Alaska	1764
+Alaska	1933
+Alaska	1777
+Alaska	1691
+Alaska	1356
+Alaska	926
+Alaska	600
+Alaska	438
+Alaska	470
+Alaska	662
+Alaska	907
+Alaska	1258
+Alaska	1477
+Alaska	1847
+Alaska	1931
+Alaska	2216
+Alaska	1586
+Alaska	929
+Alaska	527
+Alaska	407
+Alaska	409
+Alaska	548
+Alaska	771
+Alaska	1181
+Alaska	1756
+Alaska	2090
+Alaska	1745
+Alaska	1656
+Alaska	1474
+Alaska	895
+Alaska	536
+Alaska	370
+Alaska	432
+Alaska	638
+Alaska	858
+Alaska	1223
+Alaska	1566
+Alaska	2148
+Alaska	1793
+Arkansas	5723
+Arkansas	1761
+Arkansas	706
+Arkansas	587
+Arkansas	529
+Arkansas	564
+Arkansas	665
+Arkansas	902
+Arkansas	1457
+Arkansas	2654
+Arkansas	4770
+Arkansas	5813
+Arkansas	4259
+Arkansas	2357
+Arkansas	794
+Arkansas	585
+Arkansas	556
+Arkansas	598
+Arkansas	666
+Arkansas	941
+Arkansas	1631
+Arkansas	4838
+Arkansas	7706
+Arkansas	8067
+Arkansas	5978
+Arkansas	2698
+Arkansas	921
+Arkansas	719
+Arkansas	684
+Arkansas	648
+Arkansas	808
+Arkansas	1265
+Arkansas	2463
+Arkansas	5222
+Arkansas	7527
+Arkansas	9194
+Arkansas	6904
+Arkansas	3735
+Arkansas	1062
+Arkansas	606
+Arkansas	613
+Arkansas	612
+Arkansas	733
+Arkansas	1377
+Arkansas	2433
+Arkansas	4977
+Arkansas	5316
+Arkansas	6620
+Arkansas	4486
+Arkansas	2930
+Arkansas	1145
+Arkansas	618
+Arkansas	551
+Arkansas	606
+Arkansas	650
+Arkansas	804
+Arkansas	1147
+Arkansas	3011
+Arkansas	4658
+Arkansas	5584
+Arkansas	4812
+Arkansas	2249
+Arkansas	943
+Arkansas	687
+Arkansas	571
+Arkansas	747
+Arkansas	813
+Arkansas	1319
+Arkansas	2882
+Arkansas	3990
+Arkansas	6901
+Arkansas	7822
+Arkansas	5087
+Arkansas	1910
+Arkansas	914
+Arkansas	644
+Arkansas	625
+Arkansas	638
+Arkansas	775
+Arkansas	1033
+Arkansas	2749
+Arkansas	6266
+Arkansas	7327
+Arkansas	8272
+Arkansas	4901
+Arkansas	2091
+Arkansas	1080
+Arkansas	700
+Arkansas	692
+Arkansas	686
+Arkansas	888
+Arkansas	1285
+Arkansas	3082
+Arkansas	4408
+Arkansas	6183
+Arkansas	7256
+Arkansas	5848
+Arkansas	2469
+Arkansas	950
+Arkansas	751
+Arkansas	682
+Arkansas	698
+Arkansas	892
+Arkansas	1583
+Arkansas	2869
+Arkansas	5127
+Arkansas	6959
+Arkansas	6890
+Arkansas	4766
+Arkansas	2315
+Arkansas	798
+Arkansas	704
+Arkansas	672
+Arkansas	734
+Arkansas	879
+Arkansas	1461
+Arkansas	2395
+Arkansas	4225
+Arkansas	7629
+Arkansas	6153
+Arkansas	4795
+Arkansas	2844
+Arkansas	1123
+Arkansas	751
+Arkansas	642
+Arkansas	724
+Arkansas	879
+Arkansas	1081
+Arkansas	2631
+Arkansas	4907
+Arkansas	5467
+Arkansas	5651
+Arkansas	5131
+Arkansas	2165
+Arkansas	930
+Arkansas	738
+Arkansas	695
+Arkansas	760
+Arkansas	868
+Arkansas	1533
+Arkansas	3195
+Arkansas	4743
+Arkansas	6007
+Arkansas	6841
+Arkansas	4805
+Arkansas	1864
+Arkansas	985
+Arkansas	820
+Arkansas	778
+Arkansas	802
+Arkansas	863
+Arkansas	1446
+Arkansas	2768
+Arkansas	5198
+Arkansas	7438
+Arkansas	6994
+Arkansas	4869
+Arkansas	2065
+Arkansas	1032
+Arkansas	803
+Arkansas	771
+Arkansas	831
+Arkansas	923
+Arkansas	1480
+Arkansas	3043
+Arkansas	6369
+Arkansas	8065
+Arkansas	7744
+Arkansas	5751
+Arkansas	3121
+Arkansas	1219
+Arkansas	796
+Arkansas	783
+Arkansas	835
+Arkansas	1066
+Arkansas	1510
+Arkansas	3706
+Arkansas	6172
+Arkansas	6958
+Arkansas	7213
+Arkansas	5759
+Arkansas	3407
+Arkansas	1534
+Arkansas	772
+Arkansas	806
+Arkansas	967
+Arkansas	811
+Arkansas	942
+Arkansas	1971
+Arkansas	5743
+Arkansas	6574
+Arkansas	7917
+Arkansas	10480
+Arkansas	5332
+Arkansas	1487
+Arkansas	1154
+Arkansas	916
+Arkansas	791
+Arkansas	916
+Arkansas	1558
+Arkansas	2439
+Arkansas	4139
+Arkansas	5734
+Arkansas	7415
+Arkansas	5037
+Arkansas	1216
+Arkansas	1264
+Arkansas	925
+Arkansas	951
+Arkansas	998
+Arkansas	1030
+Arkansas	1640
+Arkansas	3730
+Arkansas	5154
+Arkansas	5257
+Arkansas	9044
+Arkansas	4550
+Arkansas	2668
+Arkansas	1109
+Arkansas	861
+Arkansas	872
+Arkansas	963
+Arkansas	1006
+Arkansas	1725
+Arkansas	3926
+Arkansas	6076
+Arkansas	6675
+Arkansas	7759
+Arkansas	6369
+Arkansas	4013
+Arkansas	1345
+Arkansas	948
+Arkansas	917
+Arkansas	1027
+Arkansas	1239
+Arkansas	2322
+Arkansas	3290
+Arkansas	4937
+Arkansas	7745
+Arkansas	8276
+Arkansas	6286
+Arkansas	3768
+Arkansas	1425
+Arkansas	1044
+Arkansas	955
+Arkansas	930
+Arkansas	1202
+Arkansas	1967
+Arkansas	4846
+Arkansas	6146
+Arkansas	8713
+Arkansas	9008
+Arkansas	7034
+Arkansas	3522
+Arkansas	1295
+Arkansas	1042
+Arkansas	930
+Arkansas	997
+Arkansas	1243
+Arkansas	1881
+Arkansas	2973
+Arkansas	5691
+Arkansas	6900
+Arkansas	7598
+Arkansas	5144
+Arkansas	2724
+Arkansas	1423
+Arkansas	1107
+Arkansas	959
+Arkansas	1068
+Arkansas	1190
+Arkansas	1800
+Arkansas	3756
+Arkansas	5659
+Arkansas	7974
+Arkansas	8723
+Arkansas	6182
+Arkansas	4024
+Arkansas	1575
+Arkansas	1103
+Arkansas	1017
+Arkansas	1109
+Arkansas	1310
+Arkansas	2257
+Arkansas	4971
+Arkansas	6736
+Arkansas	7122
+Arkansas	8141
+Arkansas	6185
+Arkansas	3132
+Arkansas	1511
+Arkansas	1096
+Arkansas	1124
+Arkansas	1194
+Arkansas	1371
+Arkansas	1854
+Arkansas	3828
+Arkansas	4305
+Arkansas	6724
+Arkansas	7150
+Arkansas	5481
+Arkansas	3895
+Arkansas	1524
+Arkansas	1170
+Arkansas	1085
+Arkansas	1103
+Arkansas	1261
+Arkansas	1671
+Arkansas	2980
+Arkansas	5073
+Arkansas	6922
+Arkansas	8475
+Arkansas	4804
+Arkansas	3267
+Arkansas	1479
+Arkansas	1170
+Arkansas	1111
+Arkansas	1154
+Arkansas	1367
+Arkansas	2161
+Arkansas	3810
+Arkansas	4628
+Arkansas	5556
+Arkansas	8681
+Arkansas	6356
+Arkansas	2987
+Arkansas	1562
+Arkansas	1239
+Arkansas	1137
+Arkansas	1237
+Arkansas	1402
+Arkansas	1927
+Arkansas	3835
+Arkansas	6736
+Arkansas	7118
+Arkansas	6774
+Connecticut	8119
+Connecticut	4606
+Connecticut	2050
+Connecticut	1000
+Connecticut	933
+Connecticut	1075
+Connecticut	1365
+Connecticut	2385
+Connecticut	4229
+Connecticut	5562
+Connecticut	7947
+Connecticut	8584
+Connecticut	4749
+Connecticut	3846
+Connecticut	2101
+Connecticut	948
+Connecticut	970
+Connecticut	1089
+Connecticut	1330
+Connecticut	2112
+Connecticut	4766
+Connecticut	8749
+Connecticut	10279
+Connecticut	10035
+Connecticut	6846
+Connecticut	4670
+Connecticut	1776
+Connecticut	1046
+Connecticut	974
+Connecticut	1036
+Connecticut	1311
+Connecticut	2325
+Connecticut	4620
+Connecticut	8035
+Connecticut	8875
+Connecticut	9677
+Connecticut	7795
+Connecticut	4624
+Connecticut	1715
+Connecticut	1087
+Connecticut	930
+Connecticut	970
+Connecticut	1322
+Connecticut	1886
+Connecticut	4103
+Connecticut	6390
+Connecticut	7731
+Connecticut	8251
+Connecticut	6440
+Connecticut	4686
+Connecticut	1993
+Connecticut	1253
+Connecticut	971
+Connecticut	1055
+Connecticut	1206
+Connecticut	1674
+Connecticut	3016
+Connecticut	4309
+Connecticut	6856
+Connecticut	7592
+Connecticut	5298
+Connecticut	3524
+Connecticut	1923
+Connecticut	1072
+Connecticut	963
+Connecticut	1133
+Connecticut	1345
+Connecticut	2160
+Connecticut	4344
+Connecticut	6127
+Connecticut	8037
+Connecticut	8793
+Connecticut	6536
+Connecticut	3639
+Connecticut	1699
+Connecticut	951
+Connecticut	1004
+Connecticut	987
+Connecticut	1185
+Connecticut	2013
+Connecticut	3131
+Connecticut	5377
+Connecticut	7502
+Connecticut	8705
+Connecticut	5620
+Connecticut	3187
+Connecticut	2049
+Connecticut	983
+Connecticut	1080
+Connecticut	1155
+Connecticut	1443
+Connecticut	1971
+Connecticut	3943
+Connecticut	6431
+Connecticut	7689
+Connecticut	8443
+Connecticut	6259
+Connecticut	3699
+Connecticut	1610
+Connecticut	1081
+Connecticut	1103
+Connecticut	1032
+Connecticut	1526
+Connecticut	2170
+Connecticut	4217
+Connecticut	6381
+Connecticut	6709
+Connecticut	7147
+Connecticut	6103
+Connecticut	3676
+Connecticut	1203
+Connecticut	1011
+Connecticut	1008
+Connecticut	993
+Connecticut	1462
+Connecticut	2140
+Connecticut	4825
+Connecticut	6991
+Connecticut	7861
+Connecticut	6075
+Connecticut	4607
+Connecticut	3226
+Connecticut	1743
+Connecticut	1055
+Connecticut	979
+Connecticut	935
+Connecticut	1372
+Connecticut	2327
+Connecticut	3662
+Connecticut	6341
+Connecticut	6015
+Connecticut	6808
+Connecticut	6211
+Connecticut	3349
+Connecticut	1616
+Connecticut	980
+Connecticut	899
+Connecticut	1056
+Connecticut	1505
+Connecticut	2448
+Connecticut	4323
+Connecticut	6682
+Connecticut	7531
+Connecticut	7922
+Connecticut	5661
+Connecticut	3006
+Connecticut	1841
+Connecticut	1038
+Connecticut	1060
+Connecticut	1049
+Connecticut	1449
+Connecticut	2144
+Connecticut	4393
+Connecticut	5823
+Connecticut	8190
+Connecticut	8524
+Connecticut	5764
+Connecticut	3457
+Connecticut	1846
+Connecticut	761
+Connecticut	953
+Connecticut	1165
+Connecticut	1663
+Connecticut	2579
+Connecticut	4123
+Connecticut	6612
+Connecticut	8398
+Connecticut	8306
+Connecticut	6324
+Connecticut	4066
+Connecticut	1751
+Connecticut	991
+Connecticut	1021
+Connecticut	958
+Connecticut	1424
+Connecticut	2366
+Connecticut	3934
+Connecticut	4958
+Connecticut	6316
+Connecticut	6166
+Connecticut	5425
+Connecticut	3611
+Connecticut	2135
+Connecticut	889
+Connecticut	1012
+Connecticut	809
+Connecticut	1216
+Connecticut	1317
+Connecticut	3678
+Connecticut	6176
+Connecticut	6257
+Connecticut	8497
+Connecticut	6755
+Connecticut	3793
+Connecticut	2262
+Connecticut	979
+Connecticut	617
+Connecticut	953
+Connecticut	1260
+Connecticut	2226
+Connecticut	3190
+Connecticut	4978
+Connecticut	7631
+Connecticut	6891
+Connecticut	4810
+Connecticut	3064
+Connecticut	1522
+Connecticut	1067
+Connecticut	858
+Connecticut	1066
+Connecticut	1249
+Connecticut	2004
+Connecticut	3644
+Connecticut	5814
+Connecticut	6119
+Connecticut	7147
+Connecticut	4442
+Connecticut	3224
+Connecticut	1518
+Connecticut	927
+Connecticut	839
+Connecticut	1017
+Connecticut	1183
+Connecticut	1858
+Connecticut	3600
+Connecticut	4997
+Connecticut	5526
+Connecticut	6197
+Connecticut	5977
+Connecticut	3672
+Connecticut	1629
+Connecticut	1014
+Connecticut	914
+Connecticut	961
+Connecticut	1398
+Connecticut	2362
+Connecticut	4435
+Connecticut	5243
+Connecticut	6622
+Connecticut	6335
+Connecticut	5842
+Connecticut	3522
+Connecticut	1840
+Connecticut	992
+Connecticut	954
+Connecticut	1088
+Connecticut	1274
+Connecticut	2303
+Connecticut	4399
+Connecticut	6245
+Connecticut	7147
+Connecticut	8159
+Connecticut	6389
+Connecticut	3449
+Connecticut	1479
+Connecticut	1035
+Connecticut	884
+Connecticut	1045
+Connecticut	1393
+Connecticut	2402
+Connecticut	4156
+Connecticut	5825
+Connecticut	6577
+Connecticut	6189
+Connecticut	4559
+Connecticut	2506
+Connecticut	1677
+Connecticut	1037
+Connecticut	921
+Connecticut	1022
+Connecticut	1397
+Connecticut	2162
+Connecticut	4038
+Connecticut	6527
+Connecticut	7960
+Connecticut	7795
+Connecticut	5101
+Connecticut	3922
+Connecticut	2317
+Connecticut	1128
+Connecticut	1059
+Connecticut	1040
+Connecticut	1274
+Connecticut	1947
+Connecticut	4043
+Connecticut	6255
+Connecticut	7402
+Connecticut	6726
+Connecticut	5855
+Connecticut	3876
+Connecticut	2271
+Connecticut	1155
+Connecticut	996
+Connecticut	1125
+Connecticut	1394
+Connecticut	2417
+Connecticut	4284
+Connecticut	5777
+Connecticut	6571
+Connecticut	6675
+Connecticut	5209
+Connecticut	3433
+Connecticut	1943
+Connecticut	1086
+Connecticut	938
+Connecticut	915
+Connecticut	1173
+Connecticut	1976
+Connecticut	3432
+Connecticut	5011
+Connecticut	5707
+Connecticut	6359
+Connecticut	4817
+Connecticut	3201
+Connecticut	1660
+Connecticut	1119
+Connecticut	931
+Connecticut	1100
+Connecticut	1345
+Connecticut	2203
+Connecticut	3708
+Connecticut	5000
+Connecticut	5673
+Connecticut	6690
+Connecticut	6991
+Connecticut	3221
+Connecticut	1986
+Connecticut	1138
+Connecticut	996
+Connecticut	1114
+Connecticut	1296
+Connecticut	2231
+Connecticut	3694
+Connecticut	5717
+Connecticut	5891
+Connecticut	6412
+Delaware	1775
+Delaware	824
+Delaware	292
+Delaware	171
+Delaware	160
+Delaware	171
+Delaware	231
+Delaware	475
+Delaware	823
+Delaware	1135
+Delaware	1879
+Delaware	2084
+Delaware	1049
+Delaware	772
+Delaware	406
+Delaware	168
+Delaware	178
+Delaware	175
+Delaware	194
+Delaware	289
+Delaware	754
+Delaware	2076
+Delaware	2533
+Delaware	2665
+Delaware	1644
+Delaware	949
+Delaware	292
+Delaware	158
+Delaware	161
+Delaware	137
+Delaware	196
+Delaware	496
+Delaware	825
+Delaware	1858
+Delaware	2138
+Delaware	2463
+Delaware	1663
+Delaware	1016
+Delaware	313
+Delaware	183
+Delaware	160
+Delaware	152
+Delaware	200
+Delaware	343
+Delaware	723
+Delaware	1688
+Delaware	1856
+Delaware	1901
+Delaware	1337
+Delaware	1132
+Delaware	326
+Delaware	161
+Delaware	141
+Delaware	155
+Delaware	195
+Delaware	332
+Delaware	604
+Delaware	912
+Delaware	1461
+Delaware	1808
+Delaware	1323
+Delaware	861
+Delaware	435
+Delaware	176
+Delaware	200
+Delaware	148
+Delaware	177
+Delaware	359
+Delaware	747
+Delaware	1383
+Delaware	1763
+Delaware	2456
+Delaware	1899
+Delaware	755
+Delaware	296
+Delaware	180
+Delaware	192
+Delaware	195
+Delaware	228
+Delaware	348
+Delaware	585
+Delaware	1309
+Delaware	1942
+Delaware	2197
+Delaware	1513
+Delaware	702
+Delaware	370
+Delaware	186
+Delaware	175
+Delaware	190
+Delaware	242
+Delaware	370
+Delaware	806
+Delaware	1466
+Delaware	1792
+Delaware	2236
+Delaware	1675
+Delaware	882
+Delaware	278
+Delaware	165
+Delaware	176
+Delaware	176
+Delaware	306
+Delaware	423
+Delaware	770
+Delaware	1393
+Delaware	1782
+Delaware	1849
+Delaware	1559
+Delaware	798
+Delaware	221
+Delaware	183
+Delaware	168
+Delaware	188
+Delaware	256
+Delaware	421
+Delaware	916
+Delaware	1594
+Delaware	2133
+Delaware	1561
+Delaware	1317
+Delaware	808
+Delaware	363
+Delaware	182
+Delaware	176
+Delaware	192
+Delaware	232
+Delaware	343
+Delaware	710
+Delaware	1346
+Delaware	1700
+Delaware	1743
+Delaware	1679
+Delaware	721
+Delaware	285
+Delaware	182
+Delaware	181
+Delaware	197
+Delaware	276
+Delaware	468
+Delaware	790
+Delaware	1705
+Delaware	1824
+Delaware	2031
+Delaware	1509
+Delaware	818
+Delaware	345
+Delaware	199
+Delaware	180
+Delaware	193
+Delaware	219
+Delaware	398
+Delaware	905
+Delaware	1330
+Delaware	1962
+Delaware	2339
+Delaware	1338
+Delaware	759
+Delaware	412
+Delaware	194
+Delaware	181
+Delaware	217
+Delaware	350
+Delaware	535
+Delaware	966
+Delaware	1566
+Delaware	2018
+Delaware	2231
+Delaware	1568
+Delaware	865
+Delaware	275
+Delaware	180
+Delaware	171
+Delaware	201
+Delaware	279
+Delaware	483
+Delaware	955
+Delaware	1352
+Delaware	1455
+Delaware	1766
+Delaware	815
+Delaware	615
+Delaware	334
+Delaware	183
+Delaware	161
+Delaware	212
+Delaware	269
+Delaware	451
+Delaware	1026
+Delaware	1531
+Delaware	1678
+Delaware	1902
+Delaware	1404
+Delaware	615
+Delaware	270
+Delaware	172
+Delaware	188
+Delaware	246
+Delaware	294
+Delaware	655
+Delaware	985
+Delaware	1178
+Delaware	1662
+Delaware	1800
+Delaware	1116
+Delaware	576
+Delaware	278
+Delaware	169
+Delaware	168
+Delaware	202
+Delaware	254
+Delaware	498
+Delaware	991
+Delaware	1577
+Delaware	1472
+Delaware	1562
+Delaware	895
+Delaware	571
+Delaware	231
+Delaware	176
+Delaware	164
+Delaware	196
+Delaware	250
+Delaware	446
+Delaware	840
+Delaware	1240
+Delaware	1351
+Delaware	1398
+Delaware	1213
+Delaware	671
+Delaware	252
+Delaware	184
+Delaware	179
+Delaware	195
+Delaware	320
+Delaware	560
+Delaware	948
+Delaware	1272
+Delaware	1621
+Delaware	1558
+Delaware	1236
+Delaware	648
+Delaware	291
+Delaware	181
+Delaware	175
+Delaware	196
+Delaware	310
+Delaware	516
+Delaware	1116
+Delaware	1504
+Delaware	1918
+Delaware	1701
+Delaware	1231
+Delaware	601
+Delaware	230
+Delaware	176
+Delaware	177
+Delaware	197
+Delaware	264
+Delaware	501
+Delaware	865
+Delaware	1417
+Delaware	1487
+Delaware	1359
+Delaware	869
+Delaware	459
+Delaware	259
+Delaware	180
+Delaware	159
+Delaware	179
+Delaware	281
+Delaware	397
+Delaware	879
+Delaware	1480
+Delaware	1836
+Delaware	1579
+Delaware	974
+Delaware	609
+Delaware	289
+Delaware	185
+Delaware	167
+Delaware	185
+Delaware	243
+Delaware	448
+Delaware	1019
+Delaware	1487
+Delaware	1386
+Delaware	1304
+Delaware	1044
+Delaware	628
+Delaware	307
+Delaware	183
+Delaware	179
+Delaware	197
+Delaware	301
+Delaware	528
+Delaware	948
+Delaware	1158
+Delaware	1417
+Delaware	1303
+Delaware	892
+Delaware	547
+Delaware	261
+Delaware	175
+Delaware	186
+Delaware	169
+Delaware	211
+Delaware	409
+Delaware	795
+Delaware	1079
+Delaware	1217
+Delaware	1249
+Delaware	830
+Delaware	483
+Delaware	222
+Delaware	190
+Delaware	166
+Delaware	183
+Delaware	260
+Delaware	449
+Delaware	797
+Delaware	1008
+Delaware	1069
+Delaware	1613
+Delaware	1085
+Delaware	485
+Delaware	275
+Delaware	207
+Delaware	189
+Delaware	192
+Delaware	272
+Delaware	466
+Delaware	793
+Delaware	1223
+Delaware	1153
+Delaware	1257
+District of Columbia	2014
+District of Columbia	964
+District of Columbia	345
+District of Columbia	207
+District of Columbia	216
+District of Columbia	246
+District of Columbia	287
+District of Columbia	501
+District of Columbia	791
+District of Columbia	1107
+District of Columbia	2285
+District of Columbia	2524
+District of Columbia	1456
+District of Columbia	994
+District of Columbia	567
+District of Columbia	276
+District of Columbia	262
+District of Columbia	264
+District of Columbia	256
+District of Columbia	456
+District of Columbia	866
+District of Columbia	2046
+District of Columbia	2886
+District of Columbia	3166
+District of Columbia	2117
+District of Columbia	1671
+District of Columbia	550
+District of Columbia	262
+District of Columbia	258
+District of Columbia	249
+District of Columbia	293
+District of Columbia	446
+District of Columbia	893
+District of Columbia	2087
+District of Columbia	2508
+District of Columbia	2908
+District of Columbia	2139
+District of Columbia	1642
+District of Columbia	451
+District of Columbia	281
+District of Columbia	254
+District of Columbia	281
+District of Columbia	329
+District of Columbia	449
+District of Columbia	761
+District of Columbia	1948
+District of Columbia	2239
+District of Columbia	2438
+District of Columbia	1713
+District of Columbia	1762
+District of Columbia	614
+District of Columbia	233
+District of Columbia	242
+District of Columbia	236
+District of Columbia	263
+District of Columbia	303
+District of Columbia	666
+District of Columbia	979
+District of Columbia	1591
+District of Columbia	2658
+District of Columbia	1882
+District of Columbia	1070
+District of Columbia	809
+District of Columbia	222
+District of Columbia	283
+District of Columbia	207
+District of Columbia	325
+District of Columbia	255
+District of Columbia	904
+District of Columbia	1493
+District of Columbia	2032
+District of Columbia	2905
+District of Columbia	3115
+District of Columbia	1352
+District of Columbia	629
+District of Columbia	244
+District of Columbia	224
+District of Columbia	239
+District of Columbia	262
+District of Columbia	323
+District of Columbia	542
+District of Columbia	1350
+District of Columbia	2507
+District of Columbia	2821
+District of Columbia	2570
+District of Columbia	1211
+District of Columbia	703
+District of Columbia	244
+District of Columbia	264
+District of Columbia	269
+District of Columbia	297
+District of Columbia	446
+District of Columbia	797
+District of Columbia	1662
+District of Columbia	2005
+District of Columbia	2998
+District of Columbia	2220
+District of Columbia	1660
+District of Columbia	797
+District of Columbia	284
+District of Columbia	264
+District of Columbia	255
+District of Columbia	371
+District of Columbia	476
+District of Columbia	741
+District of Columbia	1551
+District of Columbia	2147
+District of Columbia	2458
+District of Columbia	2236
+District of Columbia	1422
+District of Columbia	453
+District of Columbia	258
+District of Columbia	272
+District of Columbia	264
+District of Columbia	411
+District of Columbia	427
+District of Columbia	1093
+District of Columbia	1522
+District of Columbia	2848
+District of Columbia	2164
+District of Columbia	1810
+District of Columbia	1175
+District of Columbia	799
+District of Columbia	359
+District of Columbia	259
+District of Columbia	294
+District of Columbia	280
+District of Columbia	442
+District of Columbia	600
+District of Columbia	1503
+District of Columbia	2035
+District of Columbia	1857
+District of Columbia	2556
+District of Columbia	1425
+District of Columbia	585
+District of Columbia	300
+District of Columbia	219
+District of Columbia	321
+District of Columbia	374
+District of Columbia	555
+District of Columbia	703
+District of Columbia	1952
+District of Columbia	2005
+District of Columbia	2858
+District of Columbia	2280
+District of Columbia	1307
+District of Columbia	723
+District of Columbia	275
+District of Columbia	374
+District of Columbia	245
+District of Columbia	284
+District of Columbia	382
+District of Columbia	1004
+District of Columbia	1538
+District of Columbia	2378
+District of Columbia	3486
+District of Columbia	2551
+District of Columbia	1295
+District of Columbia	849
+District of Columbia	181
+District of Columbia	297
+District of Columbia	293
+District of Columbia	347
+District of Columbia	568
+District of Columbia	1044
+District of Columbia	1698
+District of Columbia	2651
+District of Columbia	3382
+District of Columbia	2773
+District of Columbia	1825
+District of Columbia	907
+District of Columbia	338
+District of Columbia	319
+District of Columbia	318
+District of Columbia	352
+District of Columbia	567
+District of Columbia	809
+District of Columbia	1671
+District of Columbia	2015
+District of Columbia	2357
+District of Columbia	1231
+District of Columbia	865
+District of Columbia	428
+District of Columbia	301
+District of Columbia	282
+District of Columbia	318
+District of Columbia	400
+District of Columbia	539
+District of Columbia	1256
+District of Columbia	1970
+District of Columbia	2300
+District of Columbia	3057
+District of Columbia	2557
+District of Columbia	1069
+District of Columbia	553
+District of Columbia	376
+District of Columbia	356
+District of Columbia	379
+District of Columbia	485
+District of Columbia	741
+District of Columbia	1272
+District of Columbia	1747
+District of Columbia	3114
+District of Columbia	2788
+District of Columbia	1714
+District of Columbia	1029
+District of Columbia	484
+District of Columbia	326
+District of Columbia	315
+District of Columbia	369
+District of Columbia	399
+District of Columbia	688
+District of Columbia	1270
+District of Columbia	2326
+District of Columbia	2311
+District of Columbia	2916
+District of Columbia	1563
+District of Columbia	1088
+District of Columbia	459
+District of Columbia	340
+District of Columbia	328
+District of Columbia	372
+District of Columbia	436
+District of Columbia	638
+District of Columbia	1198
+District of Columbia	2038
+District of Columbia	2372
+District of Columbia	2417
+District of Columbia	2421
+District of Columbia	1414
+District of Columbia	553
+District of Columbia	393
+District of Columbia	372
+District of Columbia	419
+District of Columbia	562
+District of Columbia	944
+District of Columbia	1316
+District of Columbia	2049
+District of Columbia	2655
+District of Columbia	2708
+District of Columbia	2406
+District of Columbia	1252
+District of Columbia	578
+District of Columbia	401
+District of Columbia	380
+District of Columbia	412
+District of Columbia	582
+District of Columbia	807
+District of Columbia	1712
+District of Columbia	2376
+District of Columbia	3083
+District of Columbia	3302
+District of Columbia	2579
+District of Columbia	1246
+District of Columbia	452
+District of Columbia	401
+District of Columbia	379
+District of Columbia	431
+District of Columbia	472
+District of Columbia	813
+District of Columbia	1299
+District of Columbia	2239
+District of Columbia	2877
+District of Columbia	2503
+District of Columbia	1746
+District of Columbia	928
+District of Columbia	547
+District of Columbia	403
+District of Columbia	389
+District of Columbia	427
+District of Columbia	527
+District of Columbia	725
+District of Columbia	1402
+District of Columbia	2437
+District of Columbia	3018
+District of Columbia	3317
+District of Columbia	2134
+District of Columbia	1115
+District of Columbia	588
+District of Columbia	427
+District of Columbia	419
+District of Columbia	437
+District of Columbia	546
+District of Columbia	825
+District of Columbia	1641
+District of Columbia	2867
+District of Columbia	2823
+District of Columbia	2768
+District of Columbia	2213
+District of Columbia	1314
+District of Columbia	642
+District of Columbia	446
+District of Columbia	420
+District of Columbia	469
+District of Columbia	630
+District of Columbia	948
+District of Columbia	1820
+District of Columbia	2172
+District of Columbia	2829
+District of Columbia	2683
+District of Columbia	2001
+District of Columbia	1220
+District of Columbia	587
+District of Columbia	463
+District of Columbia	432
+District of Columbia	460
+District of Columbia	503
+District of Columbia	804
+District of Columbia	1493
+District of Columbia	2076
+District of Columbia	2543
+District of Columbia	2703
+District of Columbia	1828
+District of Columbia	1005
+District of Columbia	542
+District of Columbia	435
+District of Columbia	433
+District of Columbia	490
+District of Columbia	596
+District of Columbia	849
+District of Columbia	1522
+District of Columbia	1984
+District of Columbia	2193
+District of Columbia	3258
+District of Columbia	2637
+District of Columbia	1099
+District of Columbia	655
+District of Columbia	494
+District of Columbia	483
+District of Columbia	507
+District of Columbia	649
+District of Columbia	1025
+District of Columbia	1663
+District of Columbia	2762
+District of Columbia	2556
+District of Columbia	2903

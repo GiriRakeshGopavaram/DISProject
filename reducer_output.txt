@@ -1,6 +1,10 @@
-Total consumption (in Million Cubic Feet) for each state:
-3148915.0		Missouri
-Maximum consumption (in Million Cubic Feet) for each state:
-29359.0		Missouri
-Minimum consumption (in Million Cubic Feet) for each state:
-1595.0		Missouri
+Missouri	9371.770833333334
+Arizona	2815.8303571428573
+California	40924.5
+Colorado	9744.78869047619
+Alabama	3569.842261904762
+Alaska	1434.029761904762
+Arkansas	3094.0714285714284
+Connecticut	3548.2053571428573
+Delaware	777.4940476190476
+District of Columbia	1190.9613095238096
