@@ -52,9 +52,19 @@ Follow the below commands:
 > python mapper.py
 ![mapper](https://cloud.githubusercontent.com/assets/22079671/25057729/036d14f2-2138-11e7-8325-dffb7dcbdde5.PNG)
 
-Steps to be followed: Reducer
+
+Steps to be followed: Reducer Output for Total Consumption by state
+Clone a copy of repository to your c:\44564 folder.
+Open a command window as Administrator in this project folder (e.g. C:\44564\P19).
+Follow the below commands:
+> python reducer.py
+![reducertotal](https://cloud.githubusercontent.com/assets/22079671/25059937/3ba83f18-2156-11e7-94b7-d036b6e646e3.PNG)
+
+Steps to be followed: Reducer Output for Average Consumption by state
 Clone a copy of repository to your c:\44564 folder.
 Open a command window as Administrator in this project folder (e.g. C:\44564\P19).
 Follow the below commands:
 > python reducer.py
 ![reducer](https://cloud.githubusercontent.com/assets/22079671/25057733/055e3b9c-2138-11e7-81e1-19407f88ca12.PNG)
+
+
