@@ -71,3 +71,4 @@ Graphical Representation:
 ![graph](https://cloud.githubusercontent.com/assets/22079671/25060040/afc38900-2158-11e7-8f4c-2f5fc7b7526f.PNG)
 
 
+We have used the Modern Version Controlling System -GIT. The repository is made public and the code is available in an accessible location. Yes, each team member designed, implemented, and executed one of the MapReduce processes. We have divided the work equally and worked collectively which made us to complete the project successfully.
