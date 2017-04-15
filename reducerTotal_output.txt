@@ -1,0 +1,10 @@
+Missouri	3148915.0
+Arizona	946119.0
+California	13750632.0
+Colorado	3274249.0
+Alabama	1199467.0
+Alaska	481834.0
+Arkansas	1039608.0
+Connecticut	1192197.0
+Delaware	261238.0
+District of Columbia	400163.0
