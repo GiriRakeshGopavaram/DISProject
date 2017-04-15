@@ -1,5 +1,6 @@
 sorted = open("mapper_output.txt","r")   
-results = open("reducer_output.txt", "w")   
+results = open("reducer_output.txt", "w")  
+results2 = open("reducerTotal_output.txt", "w") 
 
 totalVolume = 0 
 count = 0       
@@ -18,6 +19,7 @@ for line in lines:
 
     if oldState and oldState != thisState:        
         results.write("{0}\t{1}\n".format(oldState, (totalVolume/count)))
+        results2.write("{0}\t{1}\n".format(oldState, (totalVolume)))
         oldState = thisState;
         totalVolume = 0
         count = 0
@@ -31,8 +33,11 @@ for line in lines:
 
 if oldState != None: 
     results.write("{0}\t{1}\n".format(oldState, (totalVolume/count)))
+    results2.write("{0}\t{1}\n".format(oldState, (totalVolume)))
+	
 
 sorted.close() 
 results.close() 
+
 
 
