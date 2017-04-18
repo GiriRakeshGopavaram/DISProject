@@ -1,8 +1,8 @@
 sorted = open("mapper_output.txt","r")   
-results = open("reducer_output.txt", "w")  
-results2 = open("reducerTotal_output.txt", "w") 
+results = open("reducer_output.txt", "w")  # To store the output of average
+results2 = open("reducerTotal_output.txt", "w") # To store the output of Total
 
-totalVolume = 0 
+totalVolume = 0  # Initially totalVolume and Count are zero
 count = 0       
 oldState = None    
 
