@@ -3,7 +3,7 @@ o = open("mapper_output.txt", "w") # open file, write - just our key, value pair
 for line in f:  
     data = line.strip().split("    ") 
   
-    if len(data) == 4:
+    if len(data) == 4:         #only 4 fields(state, month, year, volume)
         state, month, year, volume = data
         o.write("{0}\t{1}\n".format(state, volume))
 f.close()
