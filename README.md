@@ -67,7 +67,7 @@ Follow the below commands:
 > python reducer.py
 ![reducer](https://cloud.githubusercontent.com/assets/22079671/25057733/055e3b9c-2138-11e7-81e1-19407f88ca12.PNG)
 
-Graphical Representation: 
+Graphical Representation: The following is the graphical representation of " Natural Gas Consumption " by each state for each month) January-December) from 1989 - 2016.
 ![graph](https://cloud.githubusercontent.com/assets/22079671/25060040/afc38900-2158-11e7-8f4c-2f5fc7b7526f.PNG)
 
 
